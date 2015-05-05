@@ -1,2 +1,4 @@
 # 20percent.club
-Engineers interested in building and shipping side projects.
+
+> A community of engineers interested in building and shipping side projects.
+
